@@ -1,0 +1,12 @@
+# OS generated files to ignore #
+################################
+.DS_Store
+
+# Twitter access information #
+###############################
+keys.py
+keys.pyc
+
+# Cache #
+#########
+__pycache__/
