@@ -1,0 +1,415 @@
+{
+    "data": [
+        {
+            "category": "Park Closure",
+            "description": "While peregrine falcons are defending nesting territories, Jordan Cliffs, Valley Cove, Precipice, and a portion of the Orange and Black Path will remain temporarily closed.",
+            "id": "080DA2BA-155D-451F-67E747D79A312D12",
+            "parkCode": "acad",
+            "title": "Wildlife Closure: Several trails off limits during peregrine falcon nesting period",
+            "url": "https://www.nps.gov/acad/planyourvisit/conditions.htm"
+        },
+        {
+            "category": "Park Closure",
+            "description": "At Duck Creek Bridge, from 7 to 11 am Thu July 13, the Park Loop Road will reduce to one lane of travel with alternating traffic controlled by flaggers.  Delays are expected to be minor. The site is about halfway between Hulls Cove VC and Route 233.",
+            "id": "1E5CC53A-1DD8-B71B-0B893704AF698FE1",
+            "parkCode": "acad",
+            "title": "Duck Creek Bridge briefly reduced to one lane of travel Thu July 13",
+            "url": ""
+        },
+        {
+            "category": "Caution",
+            "description": "Pleased be advised, large bags and backpacks are not permitted in\nhistoric homes. Storage of these items is not available at the park.\nPlease plan accordingly.",
+            "id": "201B5DB9-155D-451F-676E3BA6B93CE1C7",
+            "parkCode": "adam",
+            "title": "Luggage Prohibited",
+            "url": ""
+        },
+        {
+            "category": "",
+            "description": "Please be advised that visitors entering 290 Broadway are subject to airport-style security. This may include the removal of shoes and presenting of photo identification. Please plan accordingly.",
+            "id": "23397233-155D-451F-6761C3A6476694B7",
+            "parkCode": "afbg",
+            "title": "Security Screening",
+            "url": ""
+        },
+        {
+            "category": "Park Closure",
+            "description": "Due to preventive maintenance being conducted within 290 Broadway, African Burial Ground National Monument will be closed Saturday July 22, 2017.\nWe apologize for any inconvenience this may cause.",
+            "id": "141CFACF-1DD8-B71B-0B34C0831275B4F6",
+            "parkCode": "afbg",
+            "title": "Closed Saturday July 22, 2017",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "Beginning Monday, May 1, 2017, the National Prisoner of War Museum will adopt new operating hours of 9:30 a.m. to 4:30 p.m. daily. The park grounds, including the national cemetery, will continue to be open from 8:00 a.m. to 5:00 p.m. daily.",
+            "id": "222664FA-1DD8-B71B-0B09F41F7CBD8F77",
+            "parkCode": "ande",
+            "title": "New Operating Hours for the National Prisoner of War Museum",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "Due to bad weather the performances for June 15 and 16 were cancelled and the makeup day is Sunday, June 25.",
+            "id": "23F24A0E-1DD8-B71B-0B8754A8A545201C",
+            "parkCode": "apco",
+            "title": "Romeo And Juliet Postponement",
+            "url": ""
+        },
+        {
+            "category": "Park Closure",
+            "description": "The staircase at Justice Bay and at the lighthouse on Sand Island have been compromised by winter storms, and are closed. At this time, Campsite 6 and the lighthouse is only accessible by landing at the East Bay dock and hiking north on the 2 mile trail.",
+            "id": "21EDF577-1DD8-B71B-0B3BAFD25F6D145F",
+            "parkCode": "apis",
+            "title": "Sand Island Staircase Closures",
+            "url": ""
+        },
+        {
+            "category": "Caution",
+            "description": "Because of recent fires and forest die-back, some areas of the Monument can be dangerous during times of high winds. Use caution and stay alert when hiking on windy days, and backcountry camp well away from stands of dead or fire damaged trees.",
+            "id": "14782F36-1DD8-B71B-0BCA86558413B16E",
+            "parkCode": "band",
+            "title": "Strong Winds and Hazard Trees",
+            "url": ""
+        },
+        {
+            "category": "Caution",
+            "description": "While visiting the park please secure all food inside hardtop vehicles or in bear boxes provided at campsites. Coolers are not bear-proof!",
+            "id": "13F229C1-1DD8-B71B-0BB272E87D14DCE8",
+            "parkCode": "bibe",
+            "title": "Be Bear Aware",
+            "url": ""
+        },
+        {
+            "category": "Park Closure",
+            "description": "The 60-day recreational ORV closure for all units of the preserve will be from Monday,6/19 through Friday, 8/18. During this closure the ORV permit office will also be closed.",
+            "id": "14432D45-1DD8-B71B-0B42935242266F5A",
+            "parkCode": "bicy",
+            "title": "2017 60-day Recreational ORV Closure",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "There are no areas of ongoing, active transmission of Zika by mosquitoes in Florida, yet please take appropriate personal protection measures including the use of insect repellent and wearing long-sleeved shirts and long pants during your park visit.",
+            "id": "0A624DA1-1DD8-B71B-0B010C099120ED6E",
+            "parkCode": "bisc",
+            "title": "Precautions for Zika Virus",
+            "url": "https://www.nps.gov/articles/zika-virus.htm"
+        },
+        {
+            "category": "Caution",
+            "description": "The drinking fountains will remain off this summer. Updates will be posted when repairs are scheduled.",
+            "id": "13DF5566-1DD8-B71B-0BC2EE27501A994F",
+            "parkCode": "cahi",
+            "title": "Lincoln Park Drinking Fountains",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "There will be no Gap Cave tours offered on Saturday, May 13th and Sunday, May 14th.  For more information please call the park visitor center at (606) 248-2817, extension 1075.",
+            "id": "1D3CAEC2-1DD8-B71C-0708C0E09D6BCC78",
+            "parkCode": "cuga",
+            "title": "No Gap Cave Tours on May 13th and 14th, 2017",
+            "url": ""
+        },
+        {
+            "category": "Park Closure",
+            "description": "The north end of Sea Camp Dock has been repaired and is open to private boaters on Fridays, Saturdays, and Sundays. Sea Camp dock will be closed Monday - Thursday. Dungeness Dock remains closed. Plum Orchard dock is open.",
+            "id": "09B4E06C-1DD8-B71B-0B7A45C9827112DD",
+            "parkCode": "cuis",
+            "title": "Sea Camp Dock open, weekends, to private boaters. Dungeness Dock remains closed.",
+            "url": "https://www.nps.gov/cuis/learn/management/upload/Superintendent-Dock-Closure-11-8-2016-3.pdf"
+        },
+        {
+            "category": "Information",
+            "description": "As of April 4, 2017 a speed limit change will be in effect on county highways that pass through portions of Cuyahoga Valley National Park (CVNP). This change is authorized by House Bill 455, at the initiative of the Summit County Engineer's Office.",
+            "id": "128601C9-1DD8-B71B-0B03F04DA43EAD7A",
+            "parkCode": "cuva",
+            "title": "Speed Limit Reduction",
+            "url": "http://summitengineer.net/news/traffic-alerts"
+        },
+        {
+            "category": "Park Closure",
+            "description": "Flooding in Grapevine Canyon from a severe thunderstorm has destroyed the road to Scotty's Castle, damaged infrastructure and some out-buildings in the Castle complex.",
+            "id": "104C7082-C671-1015-A61C050298D26588",
+            "parkCode": "deva",
+            "title": "Scotty's Castle CLOSED until 2019 due to flood damage.",
+            "url": "https://www.nps.gov/deva/learn/nature/flood-2015.htm"
+        },
+        {
+            "category": "Danger",
+            "description": "Swimming, wading, and jumping into the waterfalls and areas above and below waterfalls is prohibited in the entire Park. Your safety is vital to us. Please don't risk your LIFE. There are costly fines for violating federal law.",
+            "id": "234F0949-1DD8-B71C-07B3E86FFA0CDD2E",
+            "parkCode": "dewa",
+            "title": "Swimming, Wading, and Jumping In and Around Waterfalls is PROHIBITED!",
+            "url": "https://www.nps.gov/dewa/learn/management/upload/Compendium-Apr-2016.pdf"
+        },
+        {
+            "category": "Information",
+            "description": "Due to storm damage, this trail is anticipated to be closed through September 2017.\n\nBut don't worry about the trail being closed, the primary place to see dinosaur fossils (over 1,500!) is located in the Quarry Exhibit Hall, which is open daily.",
+            "id": "09B0CA9F-1DD8-B71B-0BD921B6B6058832",
+            "parkCode": "dino",
+            "title": "The Fossil Discovery Trail is currently closed",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "The Allée will be closed from 6/17/17 until further notice for landscape maintenance. Visitors planning to hike trails should utilize the Western Overlook Trail.",
+            "id": "1E57CDF8-1DD8-B71B-0BBDCC371B212A5A",
+            "parkCode": "flni",
+            "title": "Allée Closure",
+            "url": ""
+        },
+        {
+            "category": "Caution",
+            "description": "The boat service to Fort Matanzas National Monument is currently on hold due to damage to the docks from Hurricane Matthew.  The park Visitor Center and surrounding grounds are still open.  Check back here for future alerts.",
+            "id": "00B79EC9-1DD8-B71C-077CE7477B7B2729",
+            "parkCode": "foma",
+            "title": "Ferry Service to the Fort Suspended",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "Park: 9 a.m. - 6 p.m.\nStar Fort: 9 a.m. - 5:45 p.m.\nVisitor Center: 9 a.m. - 5:45 p.m.",
+            "id": "0C49B71B-155D-451F-67138A9CEFE6C25D",
+            "parkCode": "fomc",
+            "title": "Reg. Hours Hours: Starting May 27, 2017",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "The Miller Field Bike Path and areas surrounding the historic airplane hangar will be closed to all public access beginning Wednesday, May 10. The bike path will reopen in early June.  This area is closed while the roof of the hangar is being removed.",
+            "id": "1B3ADE1C-1DD8-B71B-0B4CFCA1B2450EDC",
+            "parkCode": "gate",
+            "title": "Miller Field Bike Path Closed starting May 10",
+            "url": ""
+        },
+        {
+            "category": "Park Closure",
+            "description": "Due to a detection of invasive mussel populations in central Montana, Glacier has closed park waters to motorized boating. <br><font color=\"red\"><b>Glacier Park Boat Co. scenic boat tours and motorboat rentals will be available this summer.</b></font>.",
+            "id": "1C0BA5F9-1DD8-B71B-0B280C5D07AD51D0",
+            "parkCode": "glac",
+            "title": "Park waters closed to motorized boating. Hand-powered vessels to be allowed with inspection permit.",
+            "url": "https://www.nps.gov/glac/learn/news/media17-14.htm"
+        },
+        {
+            "category": "Information",
+            "description": "A Spare the Air alert is in effect today. GGNRA does not permit recreational fires (including campfires, beach fires, and outdoor grills) during Spare the Air days. Check http://www.sparetheair.org for more info.",
+            "id": "19240925-1DD8-B71B-0BA7F0E5EB1586F3",
+            "parkCode": "goga",
+            "title": "Spare the Air: Fire Restrictions in Effect",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "The Crissy Field Promenade is undergoing its first major repair since opening 15 years ago. The trail will close and reopen in sections throughout Spring & Summer 2017. Some areas of the East Beach Parking Lot and the Airfield will close for periods.",
+            "id": "20DFB490-1DD8-B71B-0BAD12A961892E0E",
+            "parkCode": "goga",
+            "title": "Crissy Field Promenade Construction",
+            "url": "https://go.nps.gov/CrissyPromenade"
+        },
+        {
+            "category": "Information",
+            "description": "The Industry Museum in Lower Town is temporarily closed for exhibit rehabilitation.",
+            "id": "0C795F08-1DD8-B71B-0BCF6B20875E5491",
+            "parkCode": "hafe",
+            "title": "Closure of Industry Museum",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "The restroom facility at 5th and Chestnut Streets will be closed beginning January 1, 2017.  Please use the public restrooms in the Independence Visitor Center at 6th and Market Streets.",
+            "id": "2511106C-1DD8-B71B-0B3CEEF4E6A1B71D",
+            "parkCode": "inde",
+            "title": "Beginning January 1, 2017:  Restroom Closure on 5th Street",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "Launching, landing, or operating an unmanned aircraft from or on lands and waters administered by the National Park Service within the boundaries of Kalaupapa National Historical Park is prohibited.  This includes model airplanes, quadcopters, and drones.",
+            "id": "102A7E33-1DD8-B71B-0B02B65EA104FD14",
+            "parkCode": "kala",
+            "title": "Unmanned Aircraft",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "Road construction just north of the Portage Lift Bridge in Hancock may cause delays. Traffic is reduced to one lane in either direction. During heavy traffic times, travel to and from the Park may be impacted.",
+            "id": "16517D2C-1DD8-B71B-0B976DFD95FF1D03",
+            "parkCode": "kewe",
+            "title": "Summer 2017 Road Construction Near Portage Lift Bridge May Cause Delays",
+            "url": ""
+        },
+        {
+            "category": "Danger",
+            "description": "The higher than normal run off in the Kettle River has caused the debris boom at the mouth of the river to breach.  A temporary collection boom will be installed at river mile 702.  Mile 702 is approximately 1 mile south of the Highway 395 bridge.",
+            "id": "19C06E7A-1DD8-B71B-0B8C96D7ADA76FC1",
+            "parkCode": "laro",
+            "title": "Temporary Collection Boom Installed at River Mile 702",
+            "url": "https://www.nps.govCP___PAGEID=5536653"
+        },
+        {
+            "category": "Information",
+            "description": "The Lassen Peak and southern areas of the park are still snow-covered. Be prepared for snow-covered trails and delayed campground openings.",
+            "id": "0AD21991-1DD8-B71B-0B44B79A31DE4A65",
+            "parkCode": "lavo",
+            "title": "Winter Conditions Persist",
+            "url": "https://www.nps.gov/lavo/planyourvisit/conditions.htm"
+        },
+        {
+            "category": "",
+            "description": "Please be advised that tours of the Lincoln home fill rapidly during our busy summer season. We suggest that you visit the Lincoln Home National Historic Visitor Center early in the day for your best opportunity to receive a tour of the Lincoln home.",
+            "id": "12EB63E4-BC28-C92F-01A2A9C453EE8CAE",
+            "parkCode": "liho",
+            "title": "Lincoln Home Tours During Busy Season",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "The Maggie L. Walker NHS will host Girl Scout troops at 10:00-12:00 and 2:00-4:00 on Saturday, April 1. There is an additional group reservation from 12:30-1:30. Please be aware that regular tours will not occur during these times.",
+            "id": "168DA348-1DD8-B71B-0B3976C56BDE03C3",
+            "parkCode": "mawa",
+            "title": "Girl Scout Day",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "Due to continued safety concerns relating to rock falls, Spruce Tree House remains closed for the foreseeable future until a full geotechnical assessment can be performed.  Overlooks near the museum offer superb views of the cliff dwelling.",
+            "id": "1C04E29D-155D-9544-F3A7E51E38AB5AE8",
+            "parkCode": "meve",
+            "title": "Spruce Tree House Remains Closed",
+            "url": "https://www.nps.gov/meve/planyourvisit/sth_closure.htm"
+        },
+        {
+            "category": "Caution",
+            "description": "While the projects are underway, traffic will be limited to one lane with traffic signals to direct motorists. Visitors are encouraged to use caution while driving through the construction zone.",
+            "id": "0D650C00-1DD8-B71B-0BFB2371815F18F8",
+            "parkCode": "natr",
+            "title": "John Coffee Bridge over the Tennessee River (milepost 328) is Under Construction",
+            "url": "https://www.nps.gov/natr/learn/news/repairs-begin-on-parkway-bridge-over-tennessee-river.htm"
+        },
+        {
+            "category": "Caution",
+            "description": "Extended drought conditions have caused severe cracking and movement of the Natchez Trace Parkway road surface in Mississippi. All motorists, motorcyclists and bicyclists should use caution and be alert to uneven road surfaces.",
+            "id": "1DDCE874-1DD8-B71B-0B99B8ABB54E49EE",
+            "parkCode": "natr",
+            "title": "Uneven Road Surfaces in Mississippi",
+            "url": "https://www.nps.gov/natr/learn/news/natchez-trace-parkway-pavement-problems-for-mississippi-travelers.htm"
+        },
+        {
+            "category": "Information",
+            "description": "Nuttallburg is currently inaccessible until an anticipated date of 8/31 for repairs on Keeneys Creek road. Keeneys Creek Rail Trail and Nuttallburg Conveyor Trail are closed.",
+            "id": "1F1C63A9-1DD8-B71B-0B6A450A2DF6E816",
+            "parkCode": "neri",
+            "title": "Nuttallburg Closures",
+            "url": ""
+        },
+        {
+            "category": "Caution",
+            "description": "By Nebraska State law, all children 12 years old and younger must WEAR a USCG approved life jacket to float the Niobrara NSR. Anyone over 12 years old must HAVE a life jacket. If you are renting equipment, your outfitter will provide them.",
+            "id": "13E85374-1DD8-B71B-0BF4B6A13BC2DE2D",
+            "parkCode": "niob",
+            "title": "Life Jackets Required!",
+            "url": ""
+        },
+        {
+            "category": "Caution",
+            "description": "Due to increased fire danger, fires (charcoal, coal, and wood) are prohibited. No Smoking except in enclosed vehicles. Fireworks are prohibited at all times on Federal Public Lands.",
+            "id": "06410812-155D-451F-6718AC8A51BE3BF7",
+            "parkCode": "orpi",
+            "title": "Fire Restrictions in Effect From May 24 Until Further Notice",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "The Meet the Dairy Cow program is currently suspended.  We'll let everyone know when we are able to bring the program back.",
+            "id": "152D6758-1DD8-B71C-078CC34B29C69180",
+            "parkCode": "oxhi",
+            "title": "Meet the Dairy Cow program currently suspended",
+            "url": ""
+        },
+        {
+            "category": "Park Closure",
+            "description": "In the interest of visitor safety and resource preservation, the National Park Service has closed Yarborough Pass Road until further notice. Specific dates for reopening are unknown at this time.",
+            "id": "244A555D-1DD8-B71B-0B8A76CC3E0D0F31",
+            "parkCode": "pais",
+            "title": "Yarborough Pass Closed to Four-wheel Drive Traffic",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "The north loop of the horse trail is closed until further notice. The short loop of the trail is OPEN. Please contact the park at 479-451-8122 x 1227 for up to date information.",
+            "id": "06E65781-1DD8-B71B-0BF8BCB2CA0FEFDD",
+            "parkCode": "peri",
+            "title": "North loop of the Horse Trail CLOSED",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "If you are using a GPS unit, please click here:",
+            "id": "009B340A-155D-451F-67DBD1906BF8C9FE",
+            "parkCode": "pete",
+            "title": "Attn. GPS Users - Advice for Seeking Directions to the Park",
+            "url": "https://www.nps.gov/pete/planyourvisit/directions.htm"
+        },
+        {
+            "category": "",
+            "description": "This is an urban park. Do not invite a thief. Do not leave valuables visible inside your car. Be sure to lock your vehicle and set car alarm. Increased parking lot patrols by park rangers have been effective in preventing recent break-ins.",
+            "id": "1FD48538-1DD8-B71B-0BB1F019584202E9",
+            "parkCode": "petr",
+            "title": "Visitors please take precautions to secure your vehicle and valuables, as you would in any city.",
+            "url": ""
+        },
+        {
+            "category": "Caution",
+            "description": "Due to recent bear sightings in Prince William County, please use caution while in the park.",
+            "id": "04041467-1DD8-B71B-0B52993799DDFAA4",
+            "parkCode": "prwi",
+            "title": "Bear Sightings",
+            "url": ""
+        },
+        {
+            "category": "Information",
+            "description": "On September 22, 2016, Beach Drive will be closed in both directions from Rock Creek and Potomac Parkway NW to Tilden St NW. For more information and detour maps please visit go.nps.gov/beachdrive.",
+            "id": "072E1956-1DD8-B71B-0BAE0F92ACCF3382",
+            "parkCode": "rocr",
+            "title": "Beach Drive Road Closure",
+            "url": "https://www.nps.gov/rocr/learn/management/beach-drive-rehabilitation.htm"
+        },
+        {
+            "category": "Information",
+            "description": "For safety reasons, the US Navy may suspend or cancel the boats to the memorial at any time due to high winds. Please call 808-422-3399, option 1, for boat status and ticket availability. You can also check facebook.com/valorNPS, Monday through Friday.",
+            "id": "12567EA8-1DD8-B71B-0B66A8287F2325F6",
+            "parkCode": "valr",
+            "title": "High wind may cause cancellation of boats to the USS Arizona Memorial",
+            "url": "https://www.facebook.com/valorNPS"
+        },
+        {
+            "category": "Information",
+            "description": "The breeding areas around five (5) of the park’s breeding pairs are temporarily closed to campers and other human activities. After the young leave the nest, these temporarily closed park areas will be reopened for public use.",
+            "id": "15938589-1DD8-B71B-0BDF708405E07FBC",
+            "parkCode": "voya",
+            "title": "Bald Eagle Closures",
+            "url": "https://www.nps.gov/voya/learn/news/2017-bald-eagle-nesting-areas-protected-in-voyageurs-national-park.htm"
+        },
+        {
+            "category": "Caution",
+            "description": "From time to time the missile range that surrounds the monument performs missile testing that may require the closure of the park or Highway 70. Please plan your visit around upcoming missile tests.",
+            "id": "19BC0665-1DD8-B71C-0E5943293C351B54",
+            "parkCode": "whsa",
+            "title": "Monument Closures",
+            "url": "https://www.nps.gov/whsa/planyourvisit/monument-closures.htm"
+        },
+        {
+            "category": "Danger",
+            "description": "Weather forecasts very hot days for Zion National Park and the surrounding areas through the weekend and into next week. Visitors coming to the Park need to take extra precautions due to expected extremely high temperatures this week.",
+            "id": "1EDC5ACC-1DD8-B71B-0B372089B75D0E40",
+            "parkCode": "zion",
+            "title": "Extreme Hot Weather Expected At Zion National Park",
+            "url": "https://www.nps.gov/zion/learn/news/extreme-hot-weather-expected-at-zion-national-park.htm"
+        }
+    ],
+    "limit": 50.0,
+    "start": 1.0,
+    "total": 433
+}
