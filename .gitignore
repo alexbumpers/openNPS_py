@@ -2,7 +2,7 @@
 ################################
 .DS_Store
 
-# Twitter access information #
+# NPS API Keys #
 ###############################
 keys.py
 keys.pyc
