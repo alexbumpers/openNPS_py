@@ -10,9 +10,17 @@ class NPS_Alerts_Write_Options(object):
 
 
 class NPS_Alerts(object):
-
-    def yosemite_alerts_danger(url):
-        payload = {'category':'danger'} # From /Alerts/ GET category -> danger
+    """
+    The NPS API does not seem to support seperating by category natively.
+    You can, however, parse this information via the JSON data output.
+    """
+    def alerts_category(api_url):
+        payload = {
+        'category':'Danger', # From /Alerts/ GET category -> danger
+        'category':'caution', # From /Alerts/ GET category -> caution
+        'category':'information', # From /Alerts/ GET category -> information
+        'category':'park closure' # From /Alerts/ GET category -> park closure
+        }
         alert_url = requests.get(
             "https://developer.nps.gov/api/v0/alerts",
             headers={'Authorization': NPSSecretKey.key}, params=payload)
@@ -27,29 +35,4 @@ class NPS_Alerts(object):
                 ensure_ascii=False)
         alert_dump = alert_url.json()
         return alert_dump
-    yosemite_alerts_danger("https://developer.nps.gov/api/v0/alerts")
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    # def yellowstone_alerts(url):
-    #     alert_url = requests.get(
-    #         "https://developer.nps.gov/api/v0/alerts?parkCode=yell",
-    #         headers={'Authorization': NPSSecretKey.key})
-    #     return alert_url.text
+    alerts_category_danger("https://developer.nps.gov/api/v0/alerts")
